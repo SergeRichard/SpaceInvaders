@@ -1,0 +1,2 @@
+﻿- Create a zone under player, that if Invader reached this point, than end game. Check to see how it is done for online version.
+
